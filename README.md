@@ -4,6 +4,7 @@ a python framework (unorganized) for make python easier to work with.
 
 # Setup
 ## this is the format you want to format your code (from the repo) in.
+```text
 .
 ├── pytooler
 │   ├── __init__.py
@@ -23,3 +24,4 @@ a python framework (unorganized) for make python easier to work with.
   ^ folder name: abyssal, path = /Users/_______/abyssal
   _______ = your username
   ## read the GUIDE.md to find out how to use this.
+```
