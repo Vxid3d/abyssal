@@ -71,4 +71,9 @@ print(f"{c.RED} hi {c.RESET}")
 ```
 Guide.md link: https://github.com/Vxid3d/abyssal_/blob/main/GUIDE.md
 proud to be made 100% in
+
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
