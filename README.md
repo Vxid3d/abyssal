@@ -23,7 +23,11 @@
                                           y:::::y                                                                                                                     
                                          yyyyyyy 
 ```
-a python framework (unorganized) for make python easier to work with.
+## a python framework (unorganized) for make python easier to work with.
+# Things to know:
+This repo is made for macOS, if you want windows support, let me know in issues (or pull request if you can do it)
+The modules are pretty bad right now, for them to be truly useful, you might want to let this repo mature for like a month or 2.
+This repo has NO documentation, im working on it tho.
 # Setup
 ## this is the format you want to format your code (from the repo) in.
 ```bash
@@ -70,6 +74,8 @@ u.binary_search(listx, 7)
 print(f"{c.RED} hi {c.RESET}")
 ```
 Guide.md link: https://github.com/Vxid3d/abyssal_/blob/main/GUIDE.md
+
+
 proud to be made 100% in
 
 
