@@ -1,3 +1,4 @@
+# NOTE: IF YOU DONT WANT TO USE THE TERMINAL, YOU CAN USE THE ZIP FILE IN THE RELEASES. 
 ```zsh
                                                                        $$$$$             $$$$$                                                                        
                       bbbbbbbb                                         $:::$             $:::$                                                                        
