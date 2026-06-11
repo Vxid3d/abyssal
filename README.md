@@ -26,7 +26,7 @@
 # Things to know:
 - This repo is made for macOS, if you want windows support, let me know in issues (or pull request if you can do it)
 - The modules are pretty bad right now, for them to be truly useful, you might want to let this repo mature for like a month or 2.
-- This repo has NO documentation, im working on it tho.
+- This repo has NO documentation, im working on it tho. (40% done)
 # Setup
 ## this is the format you want to format your code (from the repo) in.
 ```zsh
